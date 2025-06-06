@@ -1,9 +1,9 @@
+import { useState, useEffect } from 'react'
 import { Routes, Route } from 'react-router-dom'
 import { ToastContainer } from 'react-toastify'
 import 'react-toastify/dist/ReactToastify.css'
-import Home from './pages/Home'
+import HomePage from '@/components/pages/HomePage'
 import NotFound from './pages/NotFound'
-import { useState, useEffect } from 'react'
 
 function App() {
   const [darkMode, setDarkMode] = useState(false)
@@ -30,7 +30,7 @@ function App() {
   return (
     <div className="min-h-screen bg-surface-50 dark:bg-surface-900 transition-colors duration-300">
       <Routes>
-        <Route path="/" element={<Home darkMode={darkMode} toggleDarkMode={toggleDarkMode} />} />
+<Route path="/" element={<HomePage darkMode={darkMode} toggleDarkMode={toggleDarkMode} />} />
         <Route path="*" element={<NotFound />} />
       </Routes>
       
