@@ -1,0 +1,137 @@
+[
+  {
+    "id": "1",
+    "content": "Just launched my new React project! Excited to share it with the community. #React #WebDev #JavaScript",
+    "author": "TechGuru",
+    "timestamp": "2024-01-15T14:30:00Z",
+    "likes": 42,
+    "reposts": 12,
+    "hashtags": ["#React", "#WebDev", "#JavaScript"]
+  },
+  {
+    "id": "2",
+    "content": "Beautiful sunset today! Sometimes you need to step away from the code and enjoy nature. 🌅",
+    "author": "DesignPro",
+    "timestamp": "2024-01-15T18:45:00Z",
+    "likes": 28,
+    "reposts": 5,
+    "hashtags": []
+  },
+  {
+    "id": "3",
+    "content": "Hot take: TypeScript makes JavaScript development so much more enjoyable. The type safety is worth the learning curve! #TypeScript #Development",
+    "author": "CodeMaster",
+    "timestamp": "2024-01-15T10:15:00Z",
+    "likes": 67,
+    "reposts": 23,
+    "hashtags": ["#TypeScript", "#Development"]
+  },
+  {
+    "id": "4",
+    "content": "Working on a new design system. The consistency it brings to our products is incredible! #DesignSystem #UX #UI",
+    "author": "PixelPerfect",
+    "timestamp": "2024-01-15T09:20:00Z",
+    "likes": 35,
+    "reposts": 8,
+    "hashtags": ["#DesignSystem", "#UX", "#UI"]
+  },
+  {
+    "id": "5",
+    "content": "Coffee shop coding session complete ☕ There's something magical about the ambient noise that helps with focus.",
+    "author": "DevLife",
+    "timestamp": "2024-01-15T16:30:00Z",
+    "likes": 19,
+    "reposts": 3,
+    "hashtags": []
+  },
+  {
+    "id": "6",
+    "content": "Reminder: Your mental health is more important than any deadline. Take breaks, go for walks, talk to friends. #MentalHealth #WorkLifeBalance",
+    "author": "WellnessDev",
+    "timestamp": "2024-01-15T11:45:00Z",
+    "likes": 89,
+    "reposts": 34,
+    "hashtags": ["#MentalHealth", "#WorkLifeBalance"]
+  },
+  {
+    "id": "7",
+    "content": "Just discovered this amazing CSS trick for creating smooth animations. The web keeps getting more beautiful! #CSS #Animation #WebDesign",
+    "author": "StyleMaster",
+    "timestamp": "2024-01-15T13:10:00Z",
+    "likes": 56,
+    "reposts": 18,
+    "hashtags": ["#CSS", "#Animation", "#WebDesign"]
+  },
+  {
+    "id": "8",
+    "content": "AI is fascinating, but let's not forget the importance of human creativity and critical thinking in problem-solving. #AI #Innovation #HumanIntelligence",
+    "author": "TechPhilosopher",
+    "timestamp": "2024-01-15T08:30:00Z",
+    "likes": 74,
+    "reposts": 29,
+    "hashtags": ["#AI", "#Innovation", "#HumanIntelligence"]
+  },
+  {
+    "id": "9",
+    "content": "Shoutout to the open source community! Your contributions make the world a better place for developers everywhere. 🙏 #OpenSource #Community",
+    "author": "OpenSourceLover",
+    "timestamp": "2024-01-15T15:20:00Z",
+    "likes": 91,
+    "reposts": 41,
+    "hashtags": ["#OpenSource", "#Community"]
+  },
+  {
+    "id": "10",
+    "content": "Learning a new framework every week is exhausting. Sometimes it's better to master what you know than chase every shiny new thing. #Development #Learning",
+    "author": "WiseDeveloper",
+    "timestamp": "2024-01-15T12:00:00Z",
+    "likes": 63,
+    "reposts": 25,
+    "hashtags": ["#Development", "#Learning"]
+  },
+  {
+    "id": "11",
+    "content": "Quick tip: Use semantic HTML elements. They're not just for accessibility (though that's crucial), they also improve SEO! #HTML #Accessibility #SEO",
+    "author": "WebStandards",
+    "timestamp": "2024-01-15T07:45:00Z",
+    "likes": 48,
+    "reposts": 15,
+    "hashtags": ["#HTML", "#Accessibility", "#SEO"]
+  },
+  {
+    "id": "12",
+    "content": "Failed deployment on Friday evening. Weekend plans officially canceled. Why do I keep doing this to myself? 😅 #DevLife #Deployment",
+    "author": "WeekendWarrior",
+    "timestamp": "2024-01-15T17:30:00Z",
+    "likes": 124,
+    "reposts": 52,
+    "hashtags": ["#DevLife", "#Deployment"]
+  },
+  {
+    "id": "13",
+    "content": "The best code is the code you don't have to write. Sometimes the simplest solution is the right solution. #Programming #Simplicity",
+    "author": "MinimalistCoder",
+    "timestamp": "2024-01-15T06:15:00Z",
+    "likes": 78,
+    "reposts": 31,
+    "hashtags": ["#Programming", "#Simplicity"]
+  },
+  {
+    "id": "14",
+    "content": "Just finished reading about Web3 and blockchain. Still skeptical about most use cases, but the technology is undeniably interesting. #Web3 #Blockchain",
+    "author": "CryptoSkeptic",
+    "timestamp": "2024-01-15T19:45:00Z",
+    "likes": 33,
+    "reposts": 11,
+    "hashtags": ["#Web3", "#Blockchain"]
+  },
+  {
+    "id": "15",
+    "content": "Pair programming session was incredibly productive today. Two minds really are better than one when tackling complex problems! #PairProgramming #Teamwork",
+    "author": "CollaborativeDev",
+    "timestamp": "2024-01-15T14:00:00Z",
+    "likes": 45,
+    "reposts": 13,
+    "hashtags": ["#PairProgramming", "#Teamwork"]
+  }
+]

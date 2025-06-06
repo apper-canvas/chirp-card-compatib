@@ -1,0 +1,64 @@
+@tailwind base;
+@tailwind components;
+@tailwind utilities;
+
+@layer utilities {
+  .scrollbar-hide {
+    -ms-overflow-style: none;
+    scrollbar-width: none;
+  }
+  .scrollbar-hide::-webkit-scrollbar {
+    display: none;
+  }
+
+  .text-shimmer {
+    background: linear-gradient(110deg, #000 45%, #fff 55%, #000 65%);
+    background-size: 200% 100%;
+    background-clip: text;
+    -webkit-background-clip: text;
+    color: transparent;
+    animation: shimmer 2s linear infinite;
+  }
+
+  .glass-effect {
+    background: rgba(255, 255, 255, 0.1);
+    backdrop-filter: blur(10px);
+    border: 1px solid rgba(255, 255, 255, 0.2);
+  }
+
+  .dark .glass-effect {
+    background: rgba(0, 0, 0, 0.2);
+    border: 1px solid rgba(255, 255, 255, 0.1);
+  }
+}
+
+@layer base {
+  * {
+    @apply border-border;
+  }
+  body {
+    @apply bg-white dark:bg-surface-900 text-surface-900 dark:text-surface-50 font-sans;
+    font-size: 15px;
+    line-height: 1.5;
+  }
+}
+
+.character-counter {
+  background: conic-gradient(
+    from 0deg,
+    #1DA1F2 0deg,
+    #1DA1F2 var(--progress, 0deg),
+    #E2E8F0 var(--progress, 0deg),
+    #E2E8F0 360deg
+  );
+}
+
+.dark .character-counter {
+  background: conic-gradient(
+    from 0deg,
+    #1DA1F2 0deg,
+    #1DA1F2 var(--progress, 0deg),
+    #475569 var(--progress, 0deg),
+    #475569 360deg
+  );
+}

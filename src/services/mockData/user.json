@@ -1,0 +1,122 @@
+[
+  {
+    "id": "1",
+    "username": "TechGuru",
+    "displayName": "Alex Chen",
+    "bio": "Full-stack developer passionate about React and Node.js. Building the future one component at a time.",
+    "chirpCount": 156,
+    "joinDate": "2023-03-15T00:00:00Z"
+  },
+  {
+    "id": "2",
+    "username": "DesignPro",
+    "displayName": "Sarah Johnson",
+    "bio": "UX/UI Designer who loves creating beautiful and functional experiences. Coffee enthusiast ☕",
+    "chirpCount": 89,
+    "joinDate": "2023-05-22T00:00:00Z"
+  },
+  {
+    "id": "3",
+    "username": "CodeMaster",
+    "displayName": "Mike Rodriguez",
+    "bio": "Senior Software Engineer | TypeScript advocate | Open source contributor",
+    "chirpCount": 234,
+    "joinDate": "2023-01-08T00:00:00Z"
+  },
+  {
+    "id": "4",
+    "username": "PixelPerfect",
+    "displayName": "Emma Wilson",
+    "bio": "Design Systems specialist. Making consistency beautiful across all platforms.",
+    "chirpCount": 67,
+    "joinDate": "2023-07-10T00:00:00Z"
+  },
+  {
+    "id": "5",
+    "username": "DevLife",
+    "displayName": "Jordan Kim",
+    "bio": "Developer by day, gamer by night. Currently learning Rust and loving it!",
+    "chirpCount": 145,
+    "joinDate": "2023-04-18T00:00:00Z"
+  },
+  {
+    "id": "6",
+    "username": "WellnessDev",
+    "displayName": "Dr. Lisa Parker",
+    "bio": "Psychologist turned developer. Advocating for mental health in tech.",
+    "chirpCount": 112,
+    "joinDate": "2023-06-03T00:00:00Z"
+  },
+  {
+    "id": "7",
+    "username": "StyleMaster",
+    "displayName": "Carlos Mendoza",
+    "bio": "CSS wizard 🎨 Turning designs into pixel-perfect reality with modern web technologies.",
+    "chirpCount": 198,
+    "joinDate": "2023-02-14T00:00:00Z"
+  },
+  {
+    "id": "8",
+    "username": "TechPhilosopher",
+    "displayName": "Dr. Maya Patel",
+    "bio": "AI researcher and technology ethicist. Exploring the intersection of tech and humanity.",
+    "chirpCount": 78,
+    "joinDate": "2023-08-01T00:00:00Z"
+  },
+  {
+    "id": "9",
+    "username": "OpenSourceLover",
+    "displayName": "David Thompson",
+    "bio": "Maintainer of several OSS projects. Believes in the power of community-driven development.",
+    "chirpCount": 287,
+    "joinDate": "2023-01-20T00:00:00Z"
+  },
+  {
+    "id": "10",
+    "username": "WiseDeveloper",
+    "displayName": "Rebecca Chang",
+    "bio": "Senior engineer with 15+ years experience. Mentor, speaker, and lifelong learner.",
+    "chirpCount": 167,
+    "joinDate": "2023-03-30T00:00:00Z"
+  },
+  {
+    "id": "11",
+    "username": "WebStandards",
+    "displayName": "James O'Connor",
+    "bio": "Web standards enthusiast. Accessibility advocate. Making the web better for everyone.",
+    "chirpCount": 134,
+    "joinDate": "2023-05-07T00:00:00Z"
+  },
+  {
+    "id": "12",
+    "username": "WeekendWarrior",
+    "displayName": "Zoe Williams",
+    "bio": "Junior dev who codes through the weekends. Always learning, always improving!",
+    "chirpCount": 89,
+    "joinDate": "2023-09-12T00:00:00Z"
+  },
+  {
+    "id": "13",
+    "username": "MinimalistCoder",
+    "displayName": "Ryan Foster",
+    "bio": "Less is more. Writing clean, simple, and maintainable code since 2015.",
+    "chirpCount": 156,
+    "joinDate": "2023-04-25T00:00:00Z"
+  },
+  {
+    "id": "14",
+    "username": "CryptoSkeptic",
+    "displayName": "Nina Andersson",
+    "bio": "Blockchain developer with a critical eye. Building practical Web3 solutions.",
+    "chirpCount": 67,
+    "joinDate": "2023-07-28T00:00:00Z"
+  },
+  {
+    "id": "15",
+    "username": "CollaborativeDev",
+    "displayName": "Marcus Johnson",
+    "bio": "Team lead who believes in the power of collaboration. Agile practitioner and people person.",
+    "chirpCount": 123,
+    "joinDate": "2023-06-15T00:00:00Z"
+  }
+]

@@ -1,0 +1,152 @@
+[
+  {
+    "tag": "#React",
+    "count": 15420,
+    "trending": true
+  },
+  {
+    "tag": "#JavaScript",
+    "count": 23150,
+    "trending": true
+  },
+  {
+    "tag": "#WebDev",
+    "count": 18750,
+    "trending": true
+  },
+  {
+    "tag": "#TypeScript",
+    "count": 12350,
+    "trending": true
+  },
+  {
+    "tag": "#CSS",
+    "count": 16890,
+    "trending": false
+  },
+  {
+    "tag": "#HTML",
+    "count": 14220,
+    "trending": false
+  },
+  {
+    "tag": "#NodeJS",
+    "count": 11580,
+    "trending": false
+  },
+  {
+    "tag": "#Python",
+    "count": 19650,
+    "trending": true
+  },
+  {
+    "tag": "#AI",
+    "count": 28750,
+    "trending": true
+  },
+  {
+    "tag": "#MachineLearning",
+    "count": 22340,
+    "trending": true
+  },
+  {
+    "tag": "#DevLife",
+    "count": 9870,
+    "trending": false
+  },
+  {
+    "tag": "#Programming",
+    "count": 31250,
+    "trending": true
+  },
+  {
+    "tag": "#OpenSource",
+    "count": 13450,
+    "trending": false
+  },
+  {
+    "tag": "#Frontend",
+    "count": 17890,
+    "trending": false
+  },
+  {
+    "tag": "#Backend",
+    "count": 14670,
+    "trending": false
+  },
+  {
+    "tag": "#FullStack",
+    "count": 16320,
+    "trending": false
+  },
+  {
+    "tag": "#UI",
+    "count": 18450,
+    "trending": false
+  },
+  {
+    "tag": "#UX",
+    "count": 19870,
+    "trending": false
+  },
+  {
+    "tag": "#Design",
+    "count": 22140,
+    "trending": false
+  },
+  {
+    "tag": "#TechNews",
+    "count": 25680,
+    "trending": true
+  },
+  {
+    "tag": "#Startup",
+    "count": 17230,
+    "trending": false
+  },
+  {
+    "tag": "#Innovation",
+    "count": 21450,
+    "trending": false
+  },
+  {
+    "tag": "#Cloud",
+    "count": 18920,
+    "trending": false
+  },
+  {
+    "tag": "#AWS",
+    "count": 12780,
+    "trending": false
+  },
+  {
+    "tag": "#Docker",
+    "count": 11340,
+    "trending": false
+  },
+  {
+    "tag": "#Kubernetes",
+    "count": 9650,
+    "trending": false
+  },
+  {
+    "tag": "#DevOps",
+    "count": 14580,
+    "trending": false
+  },
+  {
+    "tag": "#Cybersecurity",
+    "count": 16750,
+    "trending": false
+  },
+  {
+    "tag": "#Blockchain",
+    "count": 13290,
+    "trending": false
+  },
+  {
+    "tag": "#Web3",
+    "count": 11870,
+    "trending": false
+  }
+]
